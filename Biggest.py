@@ -7,4 +7,4 @@ if a>b:
   print(a,"is biggest")
 else:
   print(b,"is biggest")
-  print("End of the program")
+print("End of the program")
